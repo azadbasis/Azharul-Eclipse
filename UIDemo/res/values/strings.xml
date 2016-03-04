@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UI Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="countries">
+        <item >Bangladesh</item>
+        <item >India</item>
+        <item >Shrilonka</item>
+        <item >Kathmundo</item>
+        <item >Maldhip</item>
+        <item >United Kingdom</item>
+        <item >United State</item>
+        <item />
+    </string-array>
+
+</resources>
