@@ -17,6 +17,6 @@ public class WordDefinitionDetailActivity extends AppCompatActivity {
         Log.d("DICTIONARY","ThirdActivity started");
 
         wordTextView.setText(getIntent().getStringExtra("word"));
-        wordTextView.setText(getIntent().getStringExtra("definition"));
+        definitionTextView.setText(getIntent().getStringExtra("definition"));
     }
 }
